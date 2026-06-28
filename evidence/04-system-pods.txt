@@ -1,0 +1,17 @@
+NAMESPACE     NAME                                       READY   STATUS    RESTARTS   AGE     IP                NODE           NOMINATED NODE   READINESS GATES
+default       nginx-demo-98d9dcdf8-8lm7z                 1/1     Running   0          7m11s   192.168.230.1     k8s-worker-1   <none>           <none>
+default       nginx-demo-98d9dcdf8-d8559                 1/1     Running   0          7m11s   192.168.140.2     k8s-worker-2   <none>           <none>
+default       nginx-demo-98d9dcdf8-k2chm                 1/1     Running   0          8m24s   192.168.140.1     k8s-worker-2   <none>           <none>
+kube-system   calico-kube-controllers-845466664d-4qp79   1/1     Running   0          21m     192.168.235.193   k8s-master     <none>           <none>
+kube-system   calico-node-8jkx2                          1/1     Running   0          21m     172.31.12.17      k8s-master     <none>           <none>
+kube-system   calico-node-j9wgm                          1/1     Running   0          12m     172.31.10.138     k8s-worker-2   <none>           <none>
+kube-system   calico-node-jz4gb                          1/1     Running   0          15m     172.31.11.203     k8s-worker-1   <none>           <none>
+kube-system   coredns-66bc5c9577-nsxrp                   1/1     Running   0          32m     192.168.235.194   k8s-master     <none>           <none>
+kube-system   coredns-66bc5c9577-zvl4t                   1/1     Running   0          32m     192.168.235.195   k8s-master     <none>           <none>
+kube-system   etcd-k8s-master                            1/1     Running   0          32m     172.31.12.17      k8s-master     <none>           <none>
+kube-system   kube-apiserver-k8s-master                  1/1     Running   0          32m     172.31.12.17      k8s-master     <none>           <none>
+kube-system   kube-controller-manager-k8s-master         1/1     Running   0          32m     172.31.12.17      k8s-master     <none>           <none>
+kube-system   kube-proxy-4598f                           1/1     Running   0          15m     172.31.11.203     k8s-worker-1   <none>           <none>
+kube-system   kube-proxy-k44vq                           1/1     Running   0          12m     172.31.10.138     k8s-worker-2   <none>           <none>
+kube-system   kube-proxy-z2nwr                           1/1     Running   0          32m     172.31.12.17      k8s-master     <none>           <none>
+kube-system   kube-scheduler-k8s-master                  1/1     Running   0          32m     172.31.12.17      k8s-master     <none>           <none>

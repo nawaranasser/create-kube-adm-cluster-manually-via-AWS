@@ -1,0 +1,19 @@
+# SSH keys
+kubeadm-lab-key
+kubeadm-lab-key.pub
+*.pem
+
+# Terraform local/state files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+tfplan
+*.tfplan
+crash.log
+crash.*.log
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/

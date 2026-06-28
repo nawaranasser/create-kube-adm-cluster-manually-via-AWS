@@ -1,0 +1,10 @@
+NAME         READY   UP-TO-DATE   AVAILABLE   AGE
+nginx-demo   3/3     3            3           8m32s
+--- PODS ---
+NAME                         READY   STATUS    RESTARTS   AGE     IP              NODE           NOMINATED NODE   READINESS GATES
+nginx-demo-98d9dcdf8-8lm7z   1/1     Running   0          7m19s   192.168.230.1   k8s-worker-1   <none>           <none>
+nginx-demo-98d9dcdf8-d8559   1/1     Running   0          7m19s   192.168.140.2   k8s-worker-2   <none>           <none>
+nginx-demo-98d9dcdf8-k2chm   1/1     Running   0          8m32s   192.168.140.1   k8s-worker-2   <none>           <none>
+--- SERVICE ---
+NAME         TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+nginx-demo   NodePort   10.100.231.46   <none>        80:30147/TCP   4m41s

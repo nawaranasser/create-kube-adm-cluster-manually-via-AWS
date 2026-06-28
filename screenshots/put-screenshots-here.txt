@@ -1,0 +1,12 @@
+Add screenshots here before pushing to GitHub.
+
+Recommended screenshots:
+
+1. terraform apply success
+2. kubectl get nodes -o wide
+3. kubectl get pods -A -o wide
+4. nginx pods distribution
+5. kubectl get svc nginx-demo
+6. curl HTTP/1.1 200 OK
+7. AWS EC2 instances
+8. terraform destroy success
