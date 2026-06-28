@@ -1,0 +1,4 @@
+Terraform destroy completed successfully.
+
+Result:
+Destroy complete! Resources: 9 destroyed.

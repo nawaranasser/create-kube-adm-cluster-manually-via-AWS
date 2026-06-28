@@ -46,17 +46,17 @@
 - [x] 6.5 Test access
 
 ## Phase 7 - Documentation
-- [ ] 7.1 Write README
-- [ ] 7.2 Add architecture diagram
-- [ ] 7.3 Add final commands documentation
-- [ ] 7.4 Add troubleshooting notes
-- [ ] 7.5 Add screenshots
+- [x] 7.1 Write README
+- [x] 7.2 Add architecture diagram
+- [x] 7.3 Add final commands documentation
+- [x] 7.4 Add troubleshooting notes
+- [x] 7.5 Add screenshots
 
 ## Phase 8 - Cleanup
-- [ ] 8.1 Delete Kubernetes test resources
-- [ ] 8.2 Run terraform destroy
-- [ ] 8.3 Check for leftover AWS resources
+- [x] 8.1 Delete Kubernetes test resources
+- [x] 8.2 Run terraform destroy
+- [x] 8.3 Check for leftover AWS resources
 
 ## Phase 9 - GitHub
-- [ ] 9.1 Create GitHub repo
-- [ ] 9.2 Push project
+- [x] 9.1 Create GitHub repo
+- [x] 9.2 Push project
